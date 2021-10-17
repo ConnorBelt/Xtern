@@ -1,0 +1,401 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Address": "415 Porto Alegre St, Indianapolis, IN 46202",
+        "Activity": "Housing ",
+        "Activity Name": "IUPUI",
+        "Date": "NA",
+        "Description": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.18682146072388,
+          39.775841432426596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Address": "5255 Winthrop Ave, Indianapolis, IN 46220",
+        "Activity": "Housing ",
+        "Activity Name": "The Speak Easy",
+        "Date": "NA",
+        "Description": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14083766937256,
+          39.83264721520348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Address": "85 E Cedar St , Zionsville, IN 46077",
+        "Activity": "Housing ",
+        "Activity Name": "zWORKS",
+        "Date": "NA",
+        "Description": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.26020669937134,
+          39.950131747894396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Address": "12175 Visionary Way, Fishers, IN 46038",
+        "Activity": "Housing ",
+        "Activity Name": "Launch Fishers",
+        "Date": "NA",
+        "Description": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.00903928279877,
+          39.96646829120857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Address": "350 Massachusetts Ave, Indianapolis, IN 46204",
+        "Activity": "Housing ",
+        "Activity Name": "Industrious Mass Ave",
+        "Date": "NA",
+        "Description": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.10208511352539,
+          39.80093671440876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "Address": "525 S Meridian St, Indianapolis, IN 46225",
+        "Activity": "Housing ",
+        "Activity Name": "Launch Indy",
+        "Date": "NA",
+        "Description": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15823984146118,
+          39.69979076426969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00fbff",
+        "Address": "333 Massachusetts Ave. Indianapolis, IN 46204",
+        "Activity": "Restaurants",
+        "Activity Name": "Bazbeaux Pizza",
+        "Date": "NA",
+        "Description": "Since 1986, Bazbeauxs has served dozens of signature pizzas with traditional and exotic toppings on handcrafted crusts alongside salads and sandwiches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15338202565908,
+          39.771523135878425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "1031 E. 54th St Indianapolis, IN 46220",
+        "marker-color": "#00fbff",
+        "Activity": "Restaurants",
+        "Activity Name": "Mama Carolla's",
+        "Date": "NA",
+        "Description": "Mama Carolla’s is a Broad Ripple bungalow turned restaurant that serves classic, hearty Italian dishes in a relaxed dining experience that feels like being at your Italian grandmother’s home."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1408805847168,
+          39.85077034522932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "153 S. Illinois St. Indianapolis, IN 46225",
+        "marker-color": "#00fbff",
+        "Activity": "Restaurants",
+        "Activity Name": "Harry & Izzy's",
+        "Date": "NA",
+        "Description": "Harry & Izzy’s is the casual version of its sister restaurant St. Elmo that bridges steakhouse with modern American cuisine."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16008419543505,
+          39.76461788532285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "720 N. College Ave. Indianapolis, IN 46202",
+        "marker-color": "#00fbff",
+        "Activity": "Restaurants",
+        "Activity Name": "Livery",
+        "Date": "NA",
+        "Description": "Horse stable turned Latin-inspired restaurant, Livery relies on bright colors and dark furniture to transform your Indy dining night out into a southwest culinary experience."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.14564418792725,
+          39.77664950461225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "4050 Dandy Tr. Indianapolis, IN 46254",
+        "marker-color": "#00fbff",
+        "Activity": "Restaurants",
+        "Activity Name": "Rick's Cafe Boatyard",
+        "Date": "NA",
+        "Description": "Rick's Cafe Boatyard specializes in seafood, prime steaks, and pastas with inside and outdoor dining overlooking Eagle Creek Reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.30123376846313,
+          39.8275718816707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "7460 N. Shadeland Ave. Indianapolis, IN 46250",
+        "marker-color": "#00fbff",
+        "Activity": "Restaurants",
+        "Activity Name": "Caplingers Fresh Catch",
+        "Date": "NA",
+        "Description": "This family-owned business has more than 125 years experience in the seafood business and serves a variety of fish sandwiches - both grilled and fried - as well as lobster, octopus, calamari, scallops, and more. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.04693755507469,
+          39.890310550162134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "1435 E. 86th St., Ste. B Indianapolis, IN 46240",
+        "marker-color": "#00fbff",
+        "Activity": "Restaurants",
+        "Activity Name": "Big Lug Canteen",
+        "Date": "NA",
+        "Description": "The Northside’s Big Lug Canteen combines the casual atmosphere of your favorite neighborhood restaurant with the quality food and menu items as somewhere to where you would venture on a night out."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13613978028297,
+          39.91171645812341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00fbff",
+        "Address": "5646 E. Washington St. Indianapolis, IN 46219",
+        "Activity": "Restaurants",
+        "Activity Name": "Jockamo Upper Crust Pizza",
+        "Date": "NA",
+        "Description": "Specializing in gourmet pizzas using fresh, local ingredients."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.07090845704079,
+          39.77100413869248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "2503 N. Delaware St. Indianapolis, IN 46205",
+        "marker-color": "#00fbff",
+        "Activity": "Restaurants",
+        "Activity Name": "Goose The Market",
+        "Date": "NA",
+        "Description": "The modern neighborhood grocery and butcher shop caters to both ambitious home cooks in need of unique and select ingredients and hungry diners who want to bite into crusty bread sandwiches."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15283250808716,
+          39.80306329185461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "808 S. Meridian St. Indianapolis, IN 46225",
+        "marker-color": "#00fbff",
+        "Activity": "Restaurants",
+        "Activity Name": "Shapiro's Delicatessen",
+        "Date": "NA",
+        "Description": "Famous for their award winning, piled-high sandwiches since 1905, Shapiro’s Kosher-style Delicatessen is Indianapolis’ most iconic restaurant!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15948840975761,
+          39.7562930388578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff00d4",
+        "Address": "100 South Capitol Ave. Indianapolis, IN 46225",
+        "Date": "Dec 9-11 2021",
+        "Activity": "Conference",
+        "Activity Name": "Performance Racing Industry Show",
+        "Description": "World-class business and management education is a hallmark of PRI. The PRI Education program runs the gamut from Social Media Strategy to Pricing Policies, Sponsorship Activation, Building Brand Awareness, and much more."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16407632827759,
+          39.76434599060146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#51ff00",
+        "Address": "500 West Washington Street Indianapolis, IN 46204",
+        "Date": "Anytime",
+        "Activity": "Event",
+        "Activity Name": "Eiteljorg Museum",
+        "Description": "The Eiteljorg tells the stories of the peoples of North America in all their diversity and complexity. It’s a place for historical context, artistic expression, new ideas and individual perspectives. Here, visitors immerse themselves in the diverse cultures of the West and Native America, and sharing these amazing American stories is what we do at the Eiteljorg."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16775766015053,
+          39.768508568288304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "Dec 28 2021",
+        "Activity Name": "Norfolk Admirals vs. Indy Fuel",
+        "Address": "1202 E. 38th St., Indianapolis, IN",
+        "Activity": "Event",
+        "marker-color": "#51ff00",
+        "Description": "The Indy Fuel brought professional hockey back to Indianapolis, and skates against rivals in the ECHL -- the premier 'AA' league for the NHL."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13986302167177,
+          39.826297839926305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "650 W. Washington St., Indianapolis, IN 46204",
+        "marker-color": "#51ff00",
+        "Activity": "Event",
+        "Activity Name": "Under the Sea 3D",
+        "Date": "Nov 3 2021",
+        "Description": "\"Under the Sea 3D\", a new IMAX® 3D adventure, transports moviegoers to some of the most exotic and isolated undersea locations on Earth, including Southern Australia, New Guinea and others in the Indo-Pacific region, allowing them to experience face-to-face encounters with some of the most mysterious and stunning creatures of the sea."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.16997852921486,
+          39.76850135254672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Address": "125 S. Pennsylvania St., Indianapolis, IN 46204",
+        "marker-color": "#51ff00",
+        "Activity": "Event",
+        "Activity Name": "Jim Gaffigan",
+        "Date": "Nov 19 2021",
+        "Description": "Gaffigan is a six-time Grammy nominated comedian, actor, writer, producer, two-time New York Times best-selling author, two-time Emmy winning top touring performer, and multi-platinum-selling recording artist. He is known around the world for his unique brand of humor, which largely revolves around his observations on life."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.15549426525831,
+          39.76405888922791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#51ff00",
+        "Address": "3 Center Green, Carmel, IN 46032",
+        "Activity": "Event",
+        "Activity Name": "Elf the Musical",
+        "Date": "Dec 3 2021",
+        "Description": "Based on the cherished 2003 New Line Cinema hit, Elf."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1307954788208,
+          39.96857740683574
+        ]
+      }
+    }
+  ]
+}
